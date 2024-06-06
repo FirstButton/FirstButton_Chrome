@@ -3,7 +3,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     chrome.tabs.getAllInWindow(null, function (tabs) {
         var isTabPresent = false;
         for (var i = 0; i < tabs.length; i++) {
-            if (tabs[i].url.split("http://liquiditylighthouse.com").length == 2) {
+            if (tabs[i].url.split("https://example.com").length == 2) {
                 isTabPresent = true;
                 chrome.tabs.update(tabs[i].id, {
                     selected: true
@@ -11,7 +11,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
             }
         }
         if (!isTabPresent) chrome.tabs.create({
-            'url': 'http://liquiditylighthouse.com',
+            'url': 'https://example.com',
             'selected': true
         }, function () {})
     })
