@@ -16,3 +16,6 @@ example.crx/<br />
 │<br />
 ├── background.js  <br />
 └── manifest.json  <br />
+<br />
+<br />
+(See example.zip in this repository)
