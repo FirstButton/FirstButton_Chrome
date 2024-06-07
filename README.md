@@ -6,7 +6,7 @@ The following files are contained in the llhslogo.crx file, which is a Chrome Ex
 llhslogo.crx/<br />
 │<br />
 ├── images/ <br />
-│ <space><space> ├── icon16.png  <br />
+│ &nbsp;&nbsp;├── icon16.png  <br />
 │   ├── icon19.png  <br />
 │   ├── icon32.png  <br />
 │   ├── icon38.png  <br />
