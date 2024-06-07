@@ -1,9 +1,9 @@
 # FirstButton_Chrome
 Chrome Extension by FirstButton
 
-The following files are contained in the example.crx file, which can be viewed with 7-Zip:
+The following files are contained in the llhslogo.crx file, which is a Chrome Extension File:
        		 
-example.crx/
+llhslogo.crx/
 │
 ├── images/
 │   ├── icon16.png
