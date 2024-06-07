@@ -6,13 +6,13 @@ The following files are contained in the llhslogo.crx file, which is a Chrome Ex
 llhslogo.crx/<br />
 │<br />
 ├── images/ <br />
-│ &nbsp;&nbsp;&nbsp;├── icon16.png  <br />
-│   ├── icon19.png  <br />
-│   ├── icon32.png  <br />
-│   ├── icon38.png  <br />
-│   ├── icon48.png  <br />
-│   ├── icon64.png  <br />
-│   └── icon128.png <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon16.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon19.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon32.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon38.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon48.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;├── icon64.png  <br />
+│ &nbsp;&nbsp;&nbsp;&nbsp;└── icon128.png <br />
 │<br />
 ├── background.js  <br />
 └── manifest.json  <br />
