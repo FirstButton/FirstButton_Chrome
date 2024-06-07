@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "FirstButton for Liquidity Lighthouse",
+  "name": "FirstButton for Example",
   "version":"2.1",
-  "description": "FirstButton for Liquidity Lighthouse",
+  "description": "FirstButton for Example",
   "background": {
   "scripts": ["background.js"],
 	"persistent": false
@@ -21,6 +21,6 @@
     "default_icon": {
 	         "19": "images/icon19.png",     
 		 "38": "images/icon38.png"},
-    "default_title": "Liquidity Lighthouse"
+    "default_title": "FirstButton Example Extension"
   }
 }
