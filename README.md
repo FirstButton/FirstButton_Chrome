@@ -1,6 +1,8 @@
 # FirstButton_Chrome
 Chrome Extension by FirstButton
 
+NOTE: This version is obsolete! Please see the FirstButton_Chrome_v3 repository for a current version.
+
 The following file structure is how the .crx or .zip file should be built, which is a Chrome Extension File:<br />
 <br />
 example.crx/<br />
